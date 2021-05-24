@@ -334,6 +334,6 @@
     <bool name="config_supportSmartPixels">true</bool>
 
     <!-- Enable face auth only when swiping security view -->
-    <bool name="config_faceAuthOnlyOnSecurityView">true</bool>
+    <bool name="config_faceAuthOnlyOnSecurityView">false</bool>
 
 </resources>
