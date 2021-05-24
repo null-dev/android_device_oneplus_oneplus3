@@ -272,8 +272,9 @@ PRODUCT_PACKAGES += \
 
 # Fingerprint sensor
 PRODUCT_PACKAGES += \
-    OneplusPocketMode \
     android.hardware.biometrics.fingerprint@2.1-service
+	# Disabled as it's crazy buggy
+    #OneplusPocketMode
 
 # Gatekeeper HAL
 PRODUCT_PACKAGES += \
